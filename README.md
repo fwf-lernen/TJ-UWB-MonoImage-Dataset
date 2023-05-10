@@ -1,1 +1,3 @@
-The small car and sensor suite for data collection are shown in the figure below, including an UWB tag, a Realsense D455 camera, a 32-channel LiDAR, and a high-precision IMU.
+The small car and sensor suite for data collection are shown in the figure below, including an UWB tag, a Realsense D455 camera, a 32-channel LiDAR, and a high-precision Xsens IMU.
+![The vehicle and sensor suite for data collection](images/fig1.png)
+
