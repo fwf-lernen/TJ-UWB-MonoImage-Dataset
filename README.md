@@ -11,7 +11,7 @@ The small car and sensor suite for data collection are shown in the figure below
 We have collected a large amount of data in five underground parking lots with different structures, whose LiDAR 3D reconstruction renderings are shown in the figure below. The red pentagrams mark the UWB anchor positions.
 <div align="center">
 <p float="center">
-<img src="images/fig2.png" alt="LiDAR 3D reconstruction renderings of the five underground parking lots" width="400"/>
+<img src="images/fig2.png" alt="LiDAR 3D reconstruction renderings of the five underground parking lots" width="800"/>
 <br />
 <b>LiDAR 3D reconstruction renderings of the five underground parking lots.</b>
 </p>
@@ -23,7 +23,7 @@ through a ramp, searching for a parking space, leaving the space, and finally le
 Some sequences contain visual localization challenging conditions, such as overexposure, etc. Some of the captured images are shown in the figure below.
 <div align="center">
 <p float="center">
-<img src="images/fig3.png" alt="Monocular images of sequence A01" width="400"/>
+<img src="images/fig3.png" alt="Monocular images of sequence A01" width="600"/>
 <br />
 <b>Monocular images of sequence A01.</b>
 </p>
